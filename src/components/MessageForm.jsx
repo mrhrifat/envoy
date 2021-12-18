@@ -5,6 +5,10 @@ import { SendOutlined, PictureOutlined } from '@ant-design/icons'
 const MessageForm = (props) => {
     const [value, setValue] = useState('')
     const { chatId, creds } = props
+    // console.log(props)
+    // console.log(props.chats[chatId].created)
+    // console.log(new Date(Date.parse(props.chats[chatId].created)).toLocaleDateString('en-US'))
+    // console.log(new Date(Date.parse(props.chats[chatId].created)).toLocaleTimeString('en-US'))
 
     const handleSubmit = (e) => {
         e.preventDefault()
@@ -50,6 +54,7 @@ const MessageForm = (props) => {
                     display: 'none'
                 }}
                 onChange={handleUpload}
+            // onChange={handleUpload.bind(this)}
             />
             <button
                 type='submit'
@@ -60,5 +65,6 @@ const MessageForm = (props) => {
         </form>
     )
 }
+
 
 export default MessageForm
