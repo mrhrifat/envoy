@@ -25,19 +25,7 @@ Envoy is a chatting application that allows you to chat with your friends and fa
         <img src="https://i.ibb.co/QH6f9hW/Envoy01.png" alt="Envoy01" border="0">
     </details>
 
-## How To Use
-
-- Go to [Evnoy](https://envoy.netlify.app)
-- Login with your account.
-  - To get an account, untill `SignUp` features implemented.
-  - Create an [Issue](https://github.com/mrhrifat/envoy/issues/new)
-  - Admin will provide you an account.
-- Enjoy chatting with your friends and family.
-
-**Note:** You can use this username & password to login for testing purpose.
-
-- Username: `guest`
-- Password: `1234`
+*Note:* This app is not work now due to API plan.
 
 ## License
 
