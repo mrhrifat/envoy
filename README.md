@@ -1,7 +1,9 @@
 ## Envoy
+
 Envoy is a chatting application that allows you to chat with your friends and family. It is a free and open source software. This application is developed by [Mrh Rifat](https://github.com/mrhrifat).
 
 ## Features
+
 - Login Authentication
 - Pair Chatting
 - Group Chatting
@@ -13,8 +15,9 @@ Envoy is a chatting application that allows you to chat with your friends and fa
 - Add/Remove Group Member
 
 ## Demo
+
 - Live
-    - [Envoy](https://envoy.netlify.app)
+  - [Envoy](https://envoy.netlify.app)
 - View Here
     <details>
         <summary>Click to Expand</summary>
@@ -23,17 +26,19 @@ Envoy is a chatting application that allows you to chat with your friends and fa
     </details>
 
 ## How To Use
+
 - Go to [Evnoy](https://envoy.netlify.app)
 - Login with your account.
-    - To get an account, untill `SignUp` features implemented.
-    - Create an [Issue](https://github.com/mrhrifat/envoy/issues/new)
-    - Admin will provide you an account.
+  - To get an account, untill `SignUp` features implemented.
+  - Create an [Issue](https://github.com/mrhrifat/envoy/issues/new)
+  - Admin will provide you an account.
 - Enjoy chatting with your friends and family.
 
 **Note:** You can use this username & password to login for testing purpose.
+
 - Username: `guest`
 - Password: `1234`
 
-
 ## License
+
 This project is licensed under [GPL-3.0](https://github.com/mrhrifat/envoy/blob/master/LICENSE.md).
